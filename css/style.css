@@ -1,0 +1,18 @@
+
+table, td, th {
+    border: 2px solid white;
+    border-collapse: collapse;    
+}
+
+body {
+    background-color: rgb(30,30,35);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* C'est parce que c'était pas lisible avec couleurs par défaut*/
+a {color:aqua;}
+a:hover {color:cadetblue;}
+a:visited {color:aquamarine;}
+
+
